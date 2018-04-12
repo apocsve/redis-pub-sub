@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/iamchrismiller/redis-pub-sub.git"
+    "url": "git://github.com/apocsve/redis-pub-sub.git"
   }
 }
